@@ -1,6 +1,6 @@
 {
-  "versionCode": 5,
+  "versionCode": 6,
   "versionName": "0.1.0-alpha.3",
-  "url": "https://github.com/<CityNanFlower>/whale-release/releases/download/v0.1.0-alpha.3/whale.apk",
+  "url": "https://github.com/CityNanFlower/whale-release/releases/download/v0.1.0-alpha.3/whale.apk",
   "notes": "字体可上传自定义（宋体/仿宋/黑体都能用）；新增检查更新；聊天记录支持搜索；角色卡创建可多选类型/标签；生图尺寸改到生图时选择，生成后先预览全图再裁剪"
 }
