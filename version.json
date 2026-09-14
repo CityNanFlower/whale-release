@@ -1,6 +1,6 @@
 {
-  "versionCode": 9,
-  "versionName": "0.1.1-alpha.3",
+  "versionCode": 8,
+  "versionName": "0.1.1-alpha.2",
   "url": "https://github.com/CityNanFlower/whale-release/releases/download/v0.1.1-alpha.2/whale.apk",
   "notes": "本次更新：应用内直接下载安装更新（走国内可直连线路，无需自行访问 GitHub）、角色卡「AI 生成」入口；并集中修复深度思考无返回内容、会话设定支持无设定、未保存退出提醒、角色卡标签显示、编辑历史消息跳底等多项问题。"
 }
