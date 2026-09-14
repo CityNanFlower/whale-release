@@ -1,6 +1,7 @@
 {
-  "versionCode": 8,
-  "versionName": "0.1.1-alpha.2",
-  "url": "https://github.com/CityNanFlower/whale-release/releases/download/v0.1.1-alpha.2/whale.apk",
-  "notes": "本次更新：应用内直接下载安装更新（走国内可直连线路，无需自行访问 GitHub）、角色卡「AI 生成」入口；并集中修复深度思考无返回内容、会话设定支持无设定、未保存退出提醒、角色卡标签显示、编辑历史消息跳底等多项问题。"
+  "versionCode": 9,
+  "versionName": "0.1.2-alpha.1",
+  "url": "https://github.com/CityNanFlower/whale-release/releases/download/v0.1.2-alpha.1/whale.apk",
+  "sha256": "286355c1ae2226cb75be3590ccc536f50d7d9b9af475c12b6f84d8162fe666c6",
+  "notes": "本次更新：聊天不会接话时可用「灵感回复」让 AI 给几条能发的话；灵感创作与角色编辑页新增 AI 扩写/起草提示词；API 设置页重做（按供应商记忆 Key、切换自动配置、思考强度自适应），新增自定义供应商与腾讯云、MiniMax 两家供应商；并修复 Kimi 报错、阿里生图 404、模型输入框崩溃等多项问题。"
 }
