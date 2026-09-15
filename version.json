@@ -1,7 +1,7 @@
 {
-  "versionCode": 10,
-  "versionName": "0.1.2-alpha.2",
-  "url": "https://github.com/CityNanFlower/whale-release/releases/download/v0.1.2-alpha.2/whale.apk",
-  "sha256": "1beebdbe72268059aca35dfbfde255914e75d1bbe31726ea7a0148454bb909f1",
-  "notes": "本次更新：回复改为真流式，一边生成一边显示，首字等待明显缩短；新增闪退自愈（万一闪退会自动回到首页并记录现场，可在「版本与安全 → 异常记录」一键复制反馈）；修复清除缓存误删聊天图片、长回复重复保存、编辑角色卡重置创建时间等隐患；并优化图片回收与竖版照片方向、生图 Key 与 API 配置统一、模型设置页结构、登录速度。"
+  "versionCode": 11,
+  "versionName": "0.1.3-alpha.1",
+  "url": "https://github.com/CityNanFlower/whale-release/releases/download/v0.1.3-alpha.1/whale.apk",
+  "sha256": "02f106e13d128a6cec946800e58ecf0380d1134bfaa3844351d836d7cac1251f",
+  "notes": "本次更新：新增「叙事风格」系统（7 根轴：节奏/篇幅/文笔/情绪/主动性/视角/时间处理）——基础档在聊天页「更多」里给节奏与篇幅，点「高级 ›」进「叙事设置」页全面调节，另有 5 套风格套餐一键套用；新增「单条临时导演」：写一句话只影响下一条回复，不改长期设定；灵感回复只在角色刚回复完时出现，且完全站在用户立场生成、按你自己的说话风格来写；模型偶尔不回内容时不再弹窗盖住整个聊天页；风格改动立即生效，且会明确告知模型从现在起换风格。"
 }
