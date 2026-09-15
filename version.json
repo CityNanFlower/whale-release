@@ -1,7 +1,7 @@
 {
-  "versionCode": 9,
-  "versionName": "0.1.2-alpha.1",
-  "url": "https://github.com/CityNanFlower/whale-release/releases/download/v0.1.2-alpha.1/whale.apk",
-  "sha256": "286355c1ae2226cb75be3590ccc536f50d7d9b9af475c12b6f84d8162fe666c6",
-  "notes": "本次更新：聊天不会接话时可用「灵感回复」让 AI 给几条能发的话；灵感创作与角色编辑页新增 AI 扩写/起草提示词；API 设置页重做（按供应商记忆 Key、切换自动配置、思考强度自适应），新增自定义供应商与腾讯云、MiniMax 两家供应商；并修复 Kimi 报错、阿里生图 404、模型输入框崩溃等多项问题。"
+  "versionCode": 10,
+  "versionName": "0.1.2-alpha.2",
+  "url": "https://github.com/CityNanFlower/whale-release/releases/download/v0.1.2-alpha.2/whale.apk",
+  "sha256": "1beebdbe72268059aca35dfbfde255914e75d1bbe31726ea7a0148454bb909f1",
+  "notes": "本次更新：回复改为真流式，一边生成一边显示，首字等待明显缩短；新增闪退自愈（万一闪退会自动回到首页并记录现场，可在「版本与安全 → 异常记录」一键复制反馈）；修复清除缓存误删聊天图片、长回复重复保存、编辑角色卡重置创建时间等隐患；并优化图片回收与竖版照片方向、生图 Key 与 API 配置统一、模型设置页结构、登录速度。"
 }
