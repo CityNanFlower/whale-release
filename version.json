@@ -8,9 +8,9 @@
     "versionCode": 2,
     "versionName": "1.0.1",
     "url": "https://github.com/CityNanFlower/whale-release/releases/download/win-v1.0.1/whale-win.zip",
-    "sha256": "5c147586116b85afb726cefe2f9d947862f0c0b682577404642fa237b9c9102a",
+    "sha256": "abfffcc70dbfafff21254e7c06c07fbf289bac3d9ce9ab390c7b8fad6512c518",
     "installerUrl": "https://github.com/CityNanFlower/whale-release/releases/download/win-v1.0.1/whale-setup.exe",
-    "installerSha256": "aaba5438bcc4f5b1d912b03694746bcc3c547c24de7efe2eec00a01dafddd356",
+    "installerSha256": "cd81aa43300d9c01b1dc185f7f3a914a637007e56a014b1c8ddd4dd088666972",
     "alignedAndroid": "0.1.3-alpha.2",
     "notes": "本次更新：新增全局快捷键（Ctrl+B 收起侧栏、Ctrl+N 新建角色、Ctrl+K 搜索、Ctrl+, 设置、Ctrl+滚轮调聊天字号）、系统托盘与开机自启、自定义标题栏、拖拽导入（角色卡文件拖进窗口即可，图片 Ctrl+V 直接粘贴）、安装程序版（setup.exe 可选安装位置，系统目录安装时更新自动改走安装器）、首次启动引导页（选数据目录与桌面快捷方式）；「清除缓存」显示占用明细并一键清理（朗读缓存保留）；设置页、灵感创作页三栏化，角色编辑页改为窗口内打开；聊天气泡文字可拖选复制、悬停操作条随字号缩放；聊天背景桌面与手机可分别设置。修复右键菜单偶发闪烁、操作条偏小。1.0.0 老用户升级后会看到一次引导页，不搬任何数据。"
   }
