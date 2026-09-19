@@ -5,11 +5,13 @@
   "sha256": "b3ee2c2efcbba13044db6dc66588f7e40df4fc8cbd402ea062367e6a7cafe1cb",
   "notes": "本次更新：新增语音朗读——免费离线的系统朗读开箱可用，也可接阿里百炼/火山豆包/腾讯云等供应商的拟人音色，长按回复即可朗读、顶栏喇叭控制新回复自动朗读，语速音高可调、可选只读对白，音色可试听与按比例混合，同一句合成结果本机缓存不重复计费；新增语音输入（按住说话识别成文字）；语音相关设置独立成页。另新增角色卡导出：编辑器右上角分享按钮可导出竖版图片卡/纯文本/角色卡文件。优化：风格与特别指示挪到离生成最近的位置（改完下一条就生效）、「本会话设定」直接显示当前状态、灵感回复只在角色回复完时出现且站在你的立场代写。修复：试听听到旧音色、语音凭据显示已配置却报授权错、http 资源被明文策略拦下（合成报失败/图片加载不出来）等。",
   "windows": {
-    "versionCode": 1,
-    "versionName": "1.0.0",
-    "url": "https://github.com/CityNanFlower/whale-release/releases/download/win-v1.0.0/whale-win.zip",
-    "sha256": "d023069615f19b0d986685d39438ad3ed4c5f3b7e70aa7fa666b53ba27e81d87",
+    "versionCode": 2,
+    "versionName": "1.0.1",
+    "url": "https://github.com/CityNanFlower/whale-release/releases/download/win-v1.0.1/whale-win.zip",
+    "sha256": "5c147586116b85afb726cefe2f9d947862f0c0b682577404642fa237b9c9102a",
+    "installerUrl": "https://github.com/CityNanFlower/whale-release/releases/download/win-v1.0.1/whale-setup.exe",
+    "installerSha256": "aaba5438bcc4f5b1d912b03694746bcc3c547c24de7efe2eec00a01dafddd356",
     "alignedAndroid": "0.1.3-alpha.2",
-    "notes": "Windows 桌面版首发：功能与 Android 0.1.3-alpha.2 对齐，并按桌面软件形态重做布局——左侧图标导航、中间可拖宽可收起的页面列表、右侧内容区（点会话直接在右侧打开，不再跳页）；角色卡改成自适应网格，支持双击开聊与右键菜单；窗口位置与大小、列表宽度都会记住。数据与手机端备份 JSON 双向互通，API Key 用 Windows 系统加密（DPAPI）保存。语音朗读与语音输入、角色卡导出（含竖版图片卡）与导入全部可用。应用内「检查更新」下载便携包后，关闭鲸鱼双击生成的脚本即可完成替换。本版修复了供应商朗读不发声、点朗读界面卡死、导航栏悬停提示挡点击、桌面聊天背景与手机不一致等问题。"
+    "notes": "本次更新：新增全局快捷键（Ctrl+B 收起侧栏、Ctrl+N 新建角色、Ctrl+K 搜索、Ctrl+, 设置、Ctrl+滚轮调聊天字号）、系统托盘与开机自启、自定义标题栏、拖拽导入（角色卡文件拖进窗口即可，图片 Ctrl+V 直接粘贴）、安装程序版（setup.exe 可选安装位置，系统目录安装时更新自动改走安装器）、首次启动引导页（选数据目录与桌面快捷方式）；「清除缓存」显示占用明细并一键清理（朗读缓存保留）；设置页、灵感创作页三栏化，角色编辑页改为窗口内打开；聊天气泡文字可拖选复制、悬停操作条随字号缩放；聊天背景桌面与手机可分别设置。修复右键菜单偶发闪烁、操作条偏小。1.0.0 老用户升级后会看到一次引导页，不搬任何数据。"
   }
 }
