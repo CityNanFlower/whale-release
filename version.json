@@ -2,16 +2,16 @@
   "versionCode": 15,
   "versionName": "0.2.0-alpha.3",
   "url": "https://github.com/CityNanFlower/whale-release/releases/download/v0.2.0-alpha.3/whale.apk",
-  "sha256": "b970e6c2cf73ec9058f4c4bd831316952da8b96bcb64ca6d6775c0698cbb20ba",
+  "sha256": "144043a662bf82b389c8af1ffe09eb9bf9a194eba33295843df704b3604a3662",
   "notes": "本次更新：新增离线可读的完整使用手册（手机与桌面同一份，顶部目录可跳节）；写了一半的提示词不再丢（生图与创作页退出后仍在）；背景音乐改为跟着会话走、朗读时压低而不是停掉，并新增音乐库与换音源 6 秒试听；修掉「明明在放声音却弹出合成失败」「新会话第一次进去不出声」等几条问题；把角色/会话列表的读取搬到后台——进列表与进聊天不再卡顿，结清了挂了好几个版本的已知问题。",
   "windows": {
-    "versionCode": 4,
-    "versionName": "1.0.3",
-    "url": "https://github.com/CityNanFlower/whale-release/releases/download/win-v1.0.3/whale-win.zip",
-    "sha256": "7f6bb0dceaefa963459a6ba15e4828fa253378566e1f0a0a899e8bf88c0e2093",
-    "installerUrl": "https://github.com/CityNanFlower/whale-release/releases/download/win-v1.0.3/whale-setup.exe",
-    "installerSha256": "4a1f63fd9ee2780bc0c3bc6f25a113e0f038e98e168be0622e240ada14b1d4b1",
+    "versionCode": 5,
+    "versionName": "1.0.4",
+    "url": "https://github.com/CityNanFlower/whale-release/releases/download/win-v1.0.4/whale-win.zip",
+    "sha256": "e89cc4d7ed9b44318e5674478d4e77321b3bab0c73f8a23de560a598bd35371c",
+    "installerUrl": "https://github.com/CityNanFlower/whale-release/releases/download/win-v1.0.4/whale-setup.exe",
+    "installerSha256": "b91d8169885b2b1f0ff102497fbc969f2455c409b2952103dd830061711c65e7",
     "alignedAndroid": "0.2.0-alpha.3",
-    "notes": "本次更新：新增离线可读的完整使用手册；写了一半的提示词不再丢；修复「清除缓存会删掉你的全部图片」与「备份 JSON 里一张图都没内嵌」（建议升级后重新导出一次备份）；侧边栏拖宽的光标与悬停提示现在看得见；背景音乐改为跟着会话走、朗读时压低而不是停掉，新增音乐库与换音源 6 秒试听；性能上把角色/会话列表的读取搬到后台，进列表与进聊天不再卡顿。"
+    "notes": "本次更新：修复 1.0.3 的一处问题——点「用户」页会弹出错误（打包时误删了一个界面图标），本版已修好；1.0.3 的其余内容本版全部包含（使用手册 / 编辑草稿 / 跟着会话走的背景音乐与音乐库试听 / 「清除缓存」与备份内嵌图片的修复 / 列表读取搬到后台等）。如果你正在用 1.0.3，请手动下载本版覆盖安装（1.0.3 进不去「版本与安全」，应用内更新走不通）。"
   }
 }
