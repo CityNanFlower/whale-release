@@ -1,17 +1,17 @@
 {
-  "versionCode": 14,
-  "versionName": "0.2.0-alpha.2",
-  "url": "https://github.com/CityNanFlower/whale-release/releases/download/v0.2.0-alpha.2/whale.apk",
-  "sha256": "7a192bcbbec00ff0cf4a802a44471e72e0c61afee879880a23376d5ee081a86c",
-  "notes": "本次更新：新增背景音乐（雨声/海浪/篝火/森林/溪流/夜晚虫鸣六档真实录音环境音，加三档纯噪声，可循环可调音量，也支持上传自己的音乐）与角色专属音色（每个角色可单独覆盖默认声音，声音参数随角色卡导出导入）。导入角色卡时卡里带着的新类型会自动进类型列表。修复：「更多」和「会话历史」面板向下拉的抖动、切换手机端/桌面端背景时画面不跟着变、「使用文档」「价格与模型页」点了没反应；六处删除操作补齐「确认/取消」；内置环境音从程序合成换成素材库真实录音。",
+  "versionCode": 15,
+  "versionName": "0.2.0-alpha.3",
+  "url": "https://github.com/CityNanFlower/whale-release/releases/download/v0.2.0-alpha.3/whale.apk",
+  "sha256": "b970e6c2cf73ec9058f4c4bd831316952da8b96bcb64ca6d6775c0698cbb20ba",
+  "notes": "本次更新：新增离线可读的完整使用手册（手机与桌面同一份，顶部目录可跳节）；写了一半的提示词不再丢（生图与创作页退出后仍在）；背景音乐改为跟着会话走、朗读时压低而不是停掉，并新增音乐库与换音源 6 秒试听；修掉「明明在放声音却弹出合成失败」「新会话第一次进去不出声」等几条问题；把角色/会话列表的读取搬到后台——进列表与进聊天不再卡顿，结清了挂了好几个版本的已知问题。",
   "windows": {
-    "versionCode": 3,
-    "versionName": "1.0.2",
-    "url": "https://github.com/CityNanFlower/whale-release/releases/download/win-v1.0.2/whale-win.zip",
-    "sha256": "1fc281f0001686017d7c547be8c94882758ecf35b62e4d9cbe81e2cc8a9c3c6d",
-    "installerUrl": "https://github.com/CityNanFlower/whale-release/releases/download/win-v1.0.2/whale-setup.exe",
-    "installerSha256": "2fc7e8c6919905b5a759941b80b3d48ab2ac487a2fe5e234faaeccbe17198bd9",
-    "alignedAndroid": "0.2.0-alpha.2",
-    "notes": "本次更新：桌面端补齐手机版两个新玩法——背景音乐（雨声/海浪/篝火/森林/溪流/夜晚虫鸣六档真实录音环境音＋三档纯噪声，可循环调音量，也支持上传 m4a/aac/flac/ogg）与角色专属音色（随角色卡导出导入）。新增发现页（精选示例角色包）、PNG 图卡导出/导入、从网址导入角色卡。改「数据与缓存目录」后可自动重启生效；便携包更新点一下即自动替换并重启；换过目录后旧目录会检查并提示怎么处理。修复：托盘右键菜单中文显示成方块、语音页「试音」一点就退出应用、设置页保存后「有未保存的修改」不消失；并禁止把数据目录设进程序安装目录。"
+    "versionCode": 4,
+    "versionName": "1.0.3",
+    "url": "https://github.com/CityNanFlower/whale-release/releases/download/win-v1.0.3/whale-win.zip",
+    "sha256": "7f6bb0dceaefa963459a6ba15e4828fa253378566e1f0a0a899e8bf88c0e2093",
+    "installerUrl": "https://github.com/CityNanFlower/whale-release/releases/download/win-v1.0.3/whale-setup.exe",
+    "installerSha256": "4a1f63fd9ee2780bc0c3bc6f25a113e0f038e98e168be0622e240ada14b1d4b1",
+    "alignedAndroid": "0.2.0-alpha.3",
+    "notes": "本次更新：新增离线可读的完整使用手册；写了一半的提示词不再丢；修复「清除缓存会删掉你的全部图片」与「备份 JSON 里一张图都没内嵌」（建议升级后重新导出一次备份）；侧边栏拖宽的光标与悬停提示现在看得见；背景音乐改为跟着会话走、朗读时压低而不是停掉，新增音乐库与换音源 6 秒试听；性能上把角色/会话列表的读取搬到后台，进列表与进聊天不再卡顿。"
   }
 }
