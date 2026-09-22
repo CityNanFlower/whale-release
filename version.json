@@ -1,9 +1,9 @@
 {
-  "versionCode": 15,
-  "versionName": "0.2.0-alpha.3",
-  "url": "https://github.com/CityNanFlower/whale-release/releases/download/v0.2.0-alpha.3/whale.apk",
-  "sha256": "5f361e429a59d0c280b1323f82fc751fe2c38f9c1d21d19250262f4b56e355b4",
-  "notes": "本次更新：新增离线可读的完整使用手册（手机与桌面同一份，顶部目录可跳节）；写了一半的提示词不再丢（生图与创作页退出后仍在）；背景音乐改为跟着会话走、朗读时压低而不是停掉，并新增音乐库与换音源 6 秒试听；修掉「明明在放声音却弹出合成失败」「新会话第一次进去不出声」等几条问题；把角色/会话列表的读取搬到后台——进列表与进聊天不再卡顿。",
+  "versionCode": 16,
+  "versionName": "0.2.1-alpha.1",
+  "url": "https://github.com/CityNanFlower/whale-release/releases/download/v0.2.1-alpha.1/whale.apk",
+  "sha256": "fb0b7f94e932399b9dbff4c77e6600397415229ae2372d66764d74fa85c2c733",
+  "notes": "本次更新：角色卡新增「形态」——陪伴 / 多线 / 玩法 / 工具，同一个 App 里既能常规角色扮演，也能玩有规则的互动玩法（二十问、海龟汤那样），还能把卡当加工工具用（给素材、出成品）；语音补齐（声音类型胶囊、复刻音色可在应用内直接录、角色专属音色支持混合音色与试听）；发现页重做（四个主题 15 张精选卡、按类型挑卡、图换成动漫画风）；导入酒馆系卡更保真（字段不再揉成一段、卡图立绘当头像）；修掉「开了混合音色会念两遍」「背景音乐音量拖了不生效」。",
   "windows": {
     "versionCode": 6,
     "versionName": "1.0.5",
